@@ -24,4 +24,4 @@
   
 * [loruki-website](https://github.com/bradtraversy/loruki-website/archive/master.zip)  
   
-* [bongo.cat一只音乐的猫](https://github.com/Externalizable/bongo.cat/archive/master.zip) [演示](https://bongo.cat/)  
+* [bongo.cat一只音乐的猫](https://github.com/isyr163/cat/archive/master.zip) [演示](https://bongo.cat/)  这个我拉到自己仓库了，改了下地址
